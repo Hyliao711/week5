@@ -34,3 +34,35 @@
 .table {
     margin-bottom: 63px;
 }
+
+.page-item {
+    a:hover {
+        color: #fff!important;
+    }
+}
+.page-link:hover {
+    background-color: #198754;
+}
+
+.modal-content {
+    .modal-header {
+        h5 {
+            font-size: 24px;
+        }
+    }
+    max-width: 480px;
+}
+
+.img-emir {
+    display: block;
+    width: 141px;
+    height: 141px;
+    background-image: url(../images/emir.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.text-gray-600 {
+    margin-bottom: 12px;
+}
